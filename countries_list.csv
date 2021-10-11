@@ -1,0 +1,202 @@
+no,korean,english,region
+1 ,미국,United States ,북미
+2 ,캐나다,Canada ,북미
+3 ,일본,Japan ,아시아
+4 ,인도,India ,아시아
+5 ,인도네시아,Indonesia ,아시아
+6 ,한국,South Korea ,아시아
+7 ,캄보디아,Cambodia ,아시아
+8 ,싱가폴,Singapore,아시아
+9 ,스리랑카,Sri Lanka ,아시아
+10 ,타이,Thailand ,아시아
+11 ,중국,China ,아시아
+12 ,네팔,Nepal ,아시아
+13 ,방글라데시,Bangladesh ,아시아
+14 ,파키스탄,Pakistan ,아시아
+15 ,동 티모르,Timor-Leste ,아시아
+16 ,필리핀,Philippines ,아시아
+17 ,브루나이,Brunei Darussalam ,아시아
+18 ,부탄,Bhutan ,아시아
+19 ,베트남,Vietnam ,아시아
+20,말레이시아,Malaysia ,아시아
+21 ,미얀마,Myanmar ,아시아
+22 ,몰디브,Maldives ,아시아
+23 ,몽골,Mongolia ,아시아
+24 ,라오스,Lao PDR ,아시아
+25 ,북한,North Korea ,아시아
+26 ,대만,Taiwan ,아시아
+27 ,홍콩,Hong Kong ,아시아
+28 ,마카오,Macao ,아시아
+29 ,알제리,Algeria ,아프리카
+30 ,앙골라,Angola ,아프리카
+31 ,우간다,Uganda ,아프리카
+32 ,이집트,Egypt ,아프리카
+33 ,에티오피아,Ethiopia ,아프리카
+34 ,에리트레아,Eritrea ,아프리카
+35 ,카메룬,Cameroon ,아프리카
+36 ,카보 베르데,Cape Verde ,아프리카
+37 ,가봉,Gabon ,아프리카
+38 ,감비아,The Gambia ,아프리카
+39 ,가나,Ghana ,아프리카
+40 ,기니,Guinea ,아프리카
+41 ,기니 비사우,Guinea-Bissau ,아프리카
+42 ,케냐,Kenya ,아프리카
+43 ,코모로,Comoros ,아프리카
+44 ,콩고 (구 자이레),Democratic Republic of the Congo ,아프리카
+45 ,콩고 공화국,Republic of Congo ,아프리카
+46 ,코트 디부 아르,Cote d' Ivoire ,아프리카
+47 ,상투 메,Sao Tome and Principe ,아프리카
+48 ,잠비아,Zambia ,아프리카
+49 ,리온,Sierra Leone ,아프리카
+50 ,지부티,Djibouti ,아프리카
+51 ,짐바브웨,Zimbabwe ,아프리카
+52 ,스와질란드,Swaziland,아프리카
+53 ,수단,Sudan ,아프리카
+54 ,적도 기니,Equatorial Guinea ,아프리카
+55 ,세네갈,Senegal ,아프리카
+56 ,세이셸,Seychelles ,아프리카
+57 ,소말리아,Somalia ,아프리카
+58 ,탄자니아,Tanzania ,아프리카
+59 ,차드,Chad ,아프리카
+60 ,중앙 아프리카,Central African Republic ,아프리카
+61 ,튀니지,Tunisia ,아프리카
+62 ,토고,Togo ,아프리카
+63 ,나이지리아,Nigeria ,아프리카
+64 ,나미비아,Namibia ,아프리카
+65 ,니제르,Niger ,아프리카
+66 ,부르 키나 파소,Burkina Faso ,아프리카
+67 ,부룬디,Burundi ,아프리카
+68 ,베냉,Benin ,아프리카
+69 ,보츠와나,Botswana ,아프리카
+70 ,마다가스카르,Madagascar ,아프리카
+71 ,말라위,Malawi ,아프리카
+72 ,마리,Mali ,아프리카
+73 ,남아프리카 공화국,South Afr​​ica,아프리카
+74 ,남 수단,South Sudan,아프리카
+75 ,모잠비크,Mozambique ,아프리카
+76 ,모로코,Morocco ,아프리카
+77 ,모리셔스,Mauritius ,아프리카
+78 ,모리타니,Mauritania ,아프리카
+79 ,리비아,Libya ,아프리카
+80 ,라이베리아,Liberia ,아프리카
+81 ,르완다,Rwanda ,아프리카
+82 ,레소토,Lesotho ,아프리카
+83 ,호주,Australia ,오세아니아
+84 ,키리바시,Kiribati ,오세아니아
+85 ,쿡 제도,Cook Islands,오세아니아
+86 ,사모아,Samoa ,오세아니아
+87 ,솔로몬 제도,Solomon Islands ,오세아니아
+88 ,투발루,Tuvalu ,오세아니아
+89 ,통가,Tonga ,오세아니아
+90 ,나우루,Nauru ,오세아니아
+91 ,뉴질랜드,New Zealand ,오세아니아
+92 ,바누아투,Vanuatu ,오세아니아
+93 ,파푸아 뉴기니,Papua New Guinea ,오세아니아
+94 ,팔라우,Palau ,오세아니아
+95 ,피지,Fiji ,오세아니아
+96 ,마샬,Marshall Islands,오세아니아
+97 ,미크로네시아,Micronesia ,오세아니아
+98 ,니우에,Niue ,오세아니아
+99 ,아이슬란드,Iceland ,유럽
+100 ,아일랜드,Ireland ,유럽
+101 ,아제르바이잔,Azerbaijan ,유럽
+102 ,알바니아,Albania ,유럽
+103 ,아르메니아,Armenia ,유럽
+104 ,안도라,Andorra ,유럽
+105 ,영국,United Kingdom ,유럽
+106 ,이탈리아,Italy ,유럽
+107 ,우크라이나,Ukraine ,유럽
+108 ,우즈베키스탄,Uzbekistan ,유럽
+109 ,에스토니아,Estonia ,유럽
+110 ,네덜란드,Netherlands ,유럽
+111 ,오스트리아,Austria ,유럽
+112 ,카자흐스탄,Kazakhstan ,유럽
+113 ,키프로스,Cyprus ,유럽
+114 ,키르기스스탄,Kyrgyz Republic ,유럽
+115 ,그리스,Greece ,유럽
+116 ,크로아티아,Croatia ,유럽
+117 ,그루지야,Georgia ,유럽
+118 ,코소보,Kosovo,유럽
+119 ,산 마리노,San Marino ,유럽
+120 ,스위스,Switzerland ,유럽
+121 ,스웨덴,Sweden ,유럽
+122 ,스페인,Spain ,유럽
+123 ,슬로바키아,Slovak Republic ,유럽
+124 ,슬로베니아,Slovenia ,유럽
+125 ,세르비아,Serbia ,유럽
+126 ,타지키스탄,Tajikistan ,유럽
+127 ,체코,Czech Republic ,유럽
+128 ,덴마크,Denmark ,유럽
+129 ,투르크 메 니 스탄,Turkmenistan,유럽
+130 ,독일,Germany ,유럽
+131 ,노르웨이,Norway ,유럽
+132 ,헝가리,Hungary ,유럽
+133 ,바티칸,Vatican ,유럽
+134 ,핀란드,Finland ,유럽
+135 ,프랑스,France ,유럽
+136 ,불가리아,Bulgaria ,유럽
+137 ,벨라루스,Belarus ,유럽
+138 ,벨기에,Belgium ,유럽
+139 ,보스니아 헤르체고비나,Bosnia and Herzegovina ,유럽
+140 ,포르투갈,Portugal ,유럽
+141 ,폴란드,Poland ,유럽
+142 ,마케도니아,FYR Macedonia ,유럽
+143 ,말타,Malta ,유럽
+144 ,모나코,Monaco ,유럽
+145 ,몰도바,Moldova ,유럽
+146 ,몬테네그로,Montenegro ,유럽
+147 ,라트비아,Latvia ,유럽
+148 ,리투아니아,Lithuania ,유럽
+149 ,리히텐슈타인,Liechtenstein ,유럽
+150 ,룩셈부르크,Luxembourg ,유럽
+151 ,루마니아,Romania ,유럽
+152 ,러시아,Russia ,유럽
+153 ,아르헨티나,Argentina ,중남미
+154 ,앤티가 바부 다,Antigua and Barbuda ,중남미
+155 ,우루과이,Uruguay ,중남미
+156 ,에콰도르,Ecuador ,중남미
+157 ,엘살바도르,El Salvador ,중남미
+158 ,가이아나,Guyana ,중남미
+159 ,쿠바,Cuba ,중남미
+160 ,과테말라,Guatemala ,중남미
+161 ,그레나다,Grenada ,중남미
+162 ,코스타리카,Costa Rica ,중남미
+163 ,콜롬비아,Colombia ,중남미
+164 ,자메이카,Jamaica ,중남미
+165 ,수리남,Suriname ,중남미
+166 ,세인트 키츠 네비스,St. Kitts and Nevis ,중남미
+167 ,세인트 빈센트 그레나딘,St. Vincent and the Grenadines ,중남미
+168 ,세인트 루시아,St. Lucia ,중남미
+169 ,칠레,Chile ,중남미
+170 ,트리니다드 토바고,Trinidad and Tobago ,중남미
+171 ,도미니카 공화국,Dominican Republic ,중남미
+172 ,도미니카,Dominica ,중남미
+173 ,니카라과,Nicaragua ,중남미
+174 ,아이티,Haiti ,중남미
+175 ,바하마,The Bahamas ,중남미
+176 ,바베이도스,Barbados ,중남미
+177 ,파나마,Panama ,중남미
+178 ,파라과이,Paraguay ,중남미
+179 ,브라질,Brazil ,중남미
+180 ,베네수엘라,Venezuela ,중남미
+181 ,벨리즈,Belize ,중남미
+182 ,페루,Peru ,중남미
+183 ,온두라스,Honduras ,중남미
+184 ,볼리비아,Bolivia ,중남미
+185 ,멕시코,Mexico ,중남미
+186 ,아프가니스탄,Afghanistan ,중동
+187 ,아랍 에미리트,United Arab Emirates ,중동
+188 ,예멘,Yemen ,중동
+189 ,이스라엘,Israel ,중동
+190 ,이라크,Iraq ,중동
+191 ,이란,Iran ,중동
+192 ,오만,Oman ,중동
+193 ,카타르,Qatar ,중동
+194 ,쿠웨이트,Kuwait,중동
+195 ,사우디,Saudi Arabia ,중동
+196 ,시리아,Syria ,중동
+197 ,터키,Turkey ,중동
+198 ,바레인,Bahrain ,중동
+199 ,요르단,Jordan ,중동
+200 ,레바논,Lebanon ,중동
+201 ,팔레스타인,Palestine ,중동
